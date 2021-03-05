@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
 
-//some spaghetti code written by pyry björk
-
 short x = 0, y = 0;
 char matrix[3][3] = {'1', '4', '7', '2', '5', '8', '3', '6', '9'};
 char in = '0';
